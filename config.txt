@@ -1,0 +1,12 @@
+Requests to be performed on API
+Get:
+1.student data by id
+2.student fee by id
+3.courses by level
+4.lectures by courseid
+5.TA by courseid
+6.login
+
+post
+1.New student account
+2. course enrollment
